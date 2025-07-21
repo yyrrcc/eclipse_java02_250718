@@ -1,7 +1,7 @@
 package test;
 
 public class Test04 {
-
+// 1부터 100까지의 수 중 홀수 개수와 짝수 개수를 출력
 	public static void main(String[] args) {
 		int even = 0;
 		int odd = 0;
